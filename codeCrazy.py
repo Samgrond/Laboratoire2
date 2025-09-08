@@ -1,3 +1,4 @@
+#Code super génial
 import random
 
 variable1 = ""
